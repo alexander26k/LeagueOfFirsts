@@ -1,7 +1,7 @@
 // Search Wrapper One
 .search-wrapper-one {
     &.bg {
-        background: url(/assets/images/shape/shape_02.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_02.svg) no-repeat center;
         background-size: cover;
         padding: 25px;
     }
@@ -445,7 +445,7 @@
 // Advance Search / Listing Sidebar Filter
 .advance-search-panel {
     &.dot-bg {
-        background: url(/assets/images/shape/shape_64.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_64.svg) no-repeat center;
         background-size: cover;
         padding: 30px;
     }
@@ -835,7 +835,7 @@
 }
 // Accordion Two
 .accordion-style-two {
-    background: url(/assets/images/shape/shape_28.svg) no-repeat center;
+    background: url(./assets/images/shape/shape_28.svg) no-repeat center;
     background-size: cover;
     padding: 40px 45px;
     .accordion {

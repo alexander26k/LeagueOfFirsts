@@ -35,7 +35,7 @@
             background-position: center top;
             background-repeat: no-repeat;
             background-size: cover;
-            background-image: url(/assets/images/agent/img_10.jpg);
+            background-image: url(./assets/images/agent/img_10.jpg);
         }
         .tag {
             font-size: 14px;
@@ -414,7 +414,7 @@
     }
     .property-floor-plan {
         .bg-dot {
-            background: url(/assets/images/shape/shape_66.svg) no-repeat center;
+            background: url(./assets/images/shape/shape_66.svg) no-repeat center;
             background-size: cover;
         }
         .carousel-indicators {
@@ -694,7 +694,7 @@
     }
     .review-form {
         .bg-dot {
-            background: url(/assets/images/shape/shape_66.svg) no-repeat center;
+            background: url(./assets/images/shape/shape_66.svg) no-repeat center;
             background-size: cover;
         }
     }
@@ -718,7 +718,7 @@
 }
 .theme-sidebar-one {
     &.dot-bg {
-        background: url(/assets/images/shape/shape_65.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_65.svg) no-repeat center;
         background-size: cover;
     }
     .btn-nine {

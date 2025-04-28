@@ -6,7 +6,7 @@
         margin: 0 auto;
     }
     .block-one {
-        background: url(/assets/images/media/img_04.jpg) no-repeat center;
+        background: url(./assets/images/media/img_04.jpg) no-repeat center;
         background-size: cover;
         border-radius: 30px;
         padding: 60px 70px 55px;
@@ -62,7 +62,7 @@
         }
     }
     .block-two {
-        background: url(/assets/images/shape/shape_03.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_03.svg) no-repeat center;
         background-size: cover;
         padding: 30px;
         .bg-wrapper {
@@ -144,7 +144,7 @@
             left: 0;
             right: 60px;
             height: 85%;
-            background: url(/assets/images/shape/shape_06.svg) no-repeat center;
+            background: url(./assets/images/shape/shape_06.svg) no-repeat center;
             background-size: cover;
             z-index: -1;
         }
@@ -273,7 +273,7 @@
         right: 0;
         top:0;
         z-index: -1;
-        background: url(/assets/images/media/img_37.jpg) no-repeat right center;
+        background: url(./assets/images/media/img_37.jpg) no-repeat right center;
         background-size: cover;
     }
     .shape_01 {
@@ -332,7 +332,7 @@
             bottom: 0;
             left: 155px;
             z-index: -1;
-            background: url(/assets/images/shape/shape_16.svg) no-repeat center;
+            background: url(./assets/images/shape/shape_16.svg) no-repeat center;
             background-size: cover;
         }
         .bg {
@@ -340,9 +340,9 @@
             min-height: 450px;
             background-repeat: no-repeat;
             background-size: cover;
-            background-image: url(/assets/images/media/img_42.jpg);
+            background-image: url(./assets/images/media/img_42.jpg);
             &.bg_2{
-                background-image: url(/assets/images/media/img_55.jpg);
+                background-image: url(./assets/images/media/img_55.jpg);
             }
         }
         .card-style-three {
@@ -416,7 +416,7 @@
             bottom: 0;
             left: 155px;
             z-index: -1;
-            background: url(/assets/images/shape/shape_59.svg) no-repeat center;
+            background: url(./assets/images/shape/shape_59.svg) no-repeat center;
             background-size: cover;
         }
         .bg {
@@ -449,7 +449,7 @@
     background: #141414;
     .card-bg-wrapper {
         padding: 15px 50px 55px;
-        background: url(/assets/images/shape/shape_60.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_60.svg) no-repeat center;
         background-size: cover;
     }
 }
@@ -594,7 +594,7 @@
 // FAQ Section Two
 .faq-section-two { 
     .faq-sidebar {
-        background: url(/assets/images/shape/shape_70.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_70.svg) no-repeat center;
         background-size: cover;
         padding: 30px;
         .bg-wrapper {
@@ -743,7 +743,7 @@
         }
     }
     .compare-table {
-        background: url(/assets/images/shape/shape_68.svg) no-repeat center;
+        background: url(./assets/images/shape/shape_68.svg) no-repeat center;
         background-size: cover;
         padding: 30px 35px;
         .table-bg {
