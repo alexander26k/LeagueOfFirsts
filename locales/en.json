@@ -1,0 +1,408 @@
+{
+  "header": {
+    "home": "Home",
+    "features": "Features",
+    "new": "New",
+    "feedback": "Feedback",
+    "about": "About Us",
+    "contact": "Contact",
+    "contact_us": "Contact Us",
+    "properties": "Properties",
+    "working_hours": {
+      "status": {
+        "0": "We are working from 8 to 22",
+        "1": "We are currently working"
+      }
+    }
+  },
+  "hero": {
+    "title": "EXPERTS IN DE-LUXE REAL ESTATE SINCE 1997",
+    "subtitle": "Discover exceptional properties in the most prestigious locations",
+    "description": "Explore the best offers on the market"
+  },
+  "about": {
+    "title": "The League of Firsts",
+    "subtitle": "A brand that combines the best offers from the most reliable developers in St. Petersburg and Moscow. We don't just sell real estate. We create it from scratch and know everything about it.",
+    "prem_loc": "Premium Locations",
+    "prem_loc_desc": "Access to the most prestigious properties in prime locations",
+    "exp_team": "Expert Team",
+    "exp_team_desc": "Dedicated professionals with years of industry experience",
+    "excl_prop": "Exclusive Properties",
+    "excl_prop_desc": "Unique real estate opportunities not available elsewhere"
+  },
+  "property_selector": {
+    "select_choice": "Выберите локацию и тип недвижимости"
+  },
+  "callback": {
+    "title": "Request a callback",
+    "subtitle": "Provide your contacts and our expert will call you as soon as possible",
+    "name_placeholder": "Your name",
+    "submit_button": "Request call",
+    "close": "Close",
+    "toast": {
+      "title": "Request accepted",
+      "description": "Our expert will contact you shortly."
+    },
+    "error": {
+      "name_required": "Введите Ваше Имя",
+      "phone_required": "Введите номер телефона"
+    }
+  },
+  "callback_sale": {
+    "title": "Want to sell your apartment?",
+    "subtitle": "The League of Firsts experts will help sell your property on the best terms. Submit your application, and we will contact you for consultation.",
+    "toast": {
+      "title": "Request accepted",
+      "description": "Our expert will contact you shortly."
+    },
+    "back_call": "We usually call back within 7 minutes"
+  },
+  "search": {
+    "im_looking": "I’m looking to...",
+    "price_range": "Price Range",
+    "_search": "Search",
+    "property": {
+      "new": "New Developments",
+      "secondary": "Resale Property",
+      "commercial": "Commercial Property",
+      "suburban": "Suburban Property",
+      "resort": "Resort Property",
+      "penthouses": "Penthouses"
+    },
+    "location": {
+      "_location": "Location",
+      "saint_petersburg": "Saint-Petersburg",
+      "moscow": "Moscow"
+    }
+  },
+  "category": {
+    "pop_cat": "Popular Categories",
+    "see_all": "See all categories",
+    "shop_mall": "Shopping Mall",
+    "apartments": "Apartments",
+    "villa": "Villa",
+    "industry": "Industrial",
+    "office": "Office",
+    "medical": "Medical",
+    "house": "House",
+    "loft": "Loft"
+  },
+  "features": {
+    "buy_apartment": {
+      "title": "Buy an apartment",
+      "btn": "Find an apartment",
+      "desc": "Uncover your ideal living space."
+    },
+    "apartments_for_sale": {
+      "title": "Apartments for sale",
+      "btn": "Apartments for sale",
+      "desc": "Sell – with our top-notch real estate agency. It’s super easy & fun."
+    },
+    "reviews": "reviews",
+    "review": {
+      "one": "review",
+      "other": "reviews"
+    }
+  },
+  "listing": {
+    "back_to_home": "Back to Home",
+    "showing_results": "Showing <1>{{from}}</1>–<2>{{to}}</2> of <3>{{total}}</3> results",
+    "sort_by": "Sort by:",
+    "sort_options": {
+      "newest": "Newest",
+      "best_match": "Best Match",
+      "price_low": "Price Low",
+      "price_high": "Price High"
+    },
+    "switch_view": "Switch To List View",
+    "title0": "Featured Listing",
+    "title1": "Listing",
+    "subtitle": "Explore our premium selection of properties for sale",
+    "for_rent": "FOR RENT",
+    "for_sell": "FOR SELL",
+    "per_month": "/m",
+    "image_count": "{{count}} <i class='fa-regular fa-image'></i>",
+    "titles": {
+      "aurora_residence": "Aurora Residence",
+      "neva_pearl": "Neva Pearl",
+      "garden_estate": "Garden Estate",
+      "triumph_palace": "Triumph Palace",
+      "baltic_horizon": "Baltic Horizon",
+      "red_side": "Red Side Lofts"
+    },
+    "search": {
+      "advanced_label": "ADVANCE Search",
+      "keyword": "Keyword",
+      "keyword_placeholder": "buy, home, loft, apartment",
+      "sqft": "SQFT",
+      "min": "Min",
+      "max": "Max",
+      "search_button": "Search",
+      "reset_filter": "Reset Filter",
+      "save_search": "Save Search"
+    }
+  },
+  "contact": {
+    "our_address": "Our Address",
+    "urgent_issue": "Urgent issue? call us at",
+    "write_us_and_call_back": "Write to us and we will call you back",
+    "call_back": "Get a call"
+  },
+  "property": {
+    "new_listings": "New Listings",
+    "explore_featured": "Explore latest & featured properties for sale",
+    "explore_all": "Explore All",
+    "full_details": "Full Details",
+    "tags": {
+      "for_sell": "FOR SELL",
+      "for_rent": "FOR RENT"
+    },
+    "titles": {
+      "super_luxury_villa": "Super luxury duplex orkit villa",
+      "swimming_pool_villa": "Swimming Pool Villa",
+      "modern_duplex": "Modern Duplex",
+      "blueberry_villa": "Blueberry Villa",
+      "white_house_villa": "White House Villa",
+      "luxury_villa_dal_lake": "Luxury Villa by the Lake",
+      "aurora_residence": "Aurora Residence",
+      "neva_pearl": "Neva Pearl",
+      "garden_estate": "Garden Estate",
+      "triumph_palace": "Triumph Palace",
+      "baltic_horizon": "Baltic Horizon",
+      "red_side": "Red Side Lofts"
+    },
+    "units": {
+      "sqft": "sq m",
+      "bed": "Bed",
+      "beds": "Beds",
+      "kitchen": "Kitchen",
+      "bath": "Bath",
+      "baths": "Baths",
+      "price_per_month": "m",
+      "view_details": "View details"
+    },
+    "details": {
+      "location": "Location",
+      "luxury_title": "Luxury Apartments in Saint-Petersburg",
+      "for_sell": "FOR SALE",
+      "for_rent": "FOR RENT",
+      "price": "Price",
+      "est_payment": "Est. Payment",
+      "mo": "mo*",
+      "see_photos": "See all {{count}} Photos",
+      "overview": "Overview",
+      "overview_text": "This modern apartment in the heart of the city combines elegant design with cutting-edge functionality. The open floor plan creates a sense of spaciousness, while floor-to-ceiling windows offer panoramic urban views. Perfect for those who value comfort and prestige.",
+      "property_features": "Property Features",
+      "property_features_text": "Smart space planning with premium finishes and smart home technology.",
+      "amenities": {
+        "_amenities": "Amenities",
+        "_text": "Private rooftop terrace, spa zone, and smart home automation system.",
+        "ac_heating": "A/C & Heating",
+        "garages": "Garages",
+        "garden": "Garden",
+        "disabled_access": "Disabled Access",
+        "swimming_pool": "Swimming Pool",
+        "parking": "Parking",
+        "wifi": "WiFi",
+        "pet_friendly": "Pet Friendly",
+        "ceiling_height": "Ceiling Height",
+        "fireplace": "Fireplace",
+        "play_ground": "Play Ground",
+        "elevator": "Elevator"
+      },
+      "feature_sections": {
+        "property_details": "Property Details",
+        "utility_details": "Utility Details",
+        "outdoor_features": "Outdoor Features"
+      },
+      "features": {
+        "bedrooms": "Bedrooms:",
+        "furnishing": "Furnishing:",
+        "bathrooms": "Bathrooms:",
+        "year_built": "Year Built:",
+        "floor": "Floor:",
+        "garage": "Garage:",
+        "ceiling_height": "Ceiling Height:",
+        "property_type": "Property Type:",
+        "renovation": "Renovation:",
+        "status": "Status:",
+        "heating": "Heating:",
+        "intercom": "Intercom:",
+        "air_condition": "Air Condition:",
+        "window_type": "Window Type:",
+        "fireplace": "Fireplace:",
+        "cable_tv": "Cable TV:",
+        "elevator": "Elevator:",
+        "wifi": "WiFi:",
+        "ventilation": "Ventilation:",
+        "parking": "Parking:",
+        "garden": "Garden:",
+        "disabled_access": "Disabled Access:",
+        "swimming_pool": "Swimming Pool:",
+        "fence": "Fence:",
+        "security": "Security:",
+        "pet_friendly": "Pet Friendly:"
+      },
+      "values": {
+        "semi_furnished": "Semi furnished",
+        "apartment": "Apartment",
+        "for_sale": "For Sale",
+        "natural_gas": "Natural gas",
+        "aluminum_frame": "Aluminum frame",
+        "ramp": "Ramp",
+        "yes": "Yes",
+        "no": "No",
+        "three_cameras": "3 Cameras",
+        "ground": "Ground floor"
+      },
+      "video": "Video Tour",
+      "floor_plans": "Floor Plans",
+      "nearby": {
+        "title": "What's Nearby",
+        "description": "Key locations within walking distance from the property.",
+        "values": {
+          "school": "School & College:",
+          "grocery": "Grocery Center:",
+          "metro": "Metro Station:",
+          "gym": "Gym:",
+          "university": "University:",
+          "hospital": "Hospital:",
+          "mall": "Shopping Mall:",
+          "police": "Police Station:",
+          "bus": "Bus Station:",
+          "river": "River:",
+          "market": "Market:"
+        }
+      },
+      "walk_score": "Walk Score",
+      "walk_score_text": "Rating of pedestrian-friendly amenities in the area.",
+      "reviews": {
+        "_": "Reviews",
+        "view_all": "VIEW ALL REVIEWS",
+        "show_less": "SHOW LESS",
+        "leave_reply": "Leave A Reply",
+        "reply_text": "Share your experience about this property",
+        "helpful": "helpful",
+        "flag": "flag",
+        "post": "Post Review"
+      },
+      "similar_homes": "Similar Homes You May Like",
+      "score_format": "<score>{{score}}</score>/100 ({{level}})",
+      "scores": {
+        "transit": "Transit Score",
+        "school": "School Score",
+        "medical": "Medical Score",
+        "shopping": "Shopping Mall Score"
+      },
+      "levels": {
+        "short": "Short Distance Walkable",
+        "moderate": "Moderate Distance Walkable",
+        "long": "Long Distance Walkable"
+      },
+      "agent_of_property": "Property Agent & Broker",
+      "schedule_form": {
+        "schedule_tour": "Schedule Tour",
+        "labels": {
+          "name": "Your Name*",
+          "email": "Your Email*",
+          "phone": "Your Phone*",
+          "message": "Message*"
+        },
+        "placeholders": {
+          "name": "Your full name",
+          "email": "Enter mail address",
+          "phone": "Your phone number",
+          "message": "Hello, I am interested in [Saint-Petersburg Apartments]"
+        },
+        "submit_button": "INQUIRY"
+      },
+      "mortgage_calculator": {
+        "_": "Mortgage Calculator",
+        "labels": {
+          "home_price": "Home Price*",
+          "down_payment": "Down Payment*",
+          "interest_rate": "Interest Rate*",
+          "loan_terms": "Loan Terms (Years)"
+        },
+        "placeholders": {
+          "home_price": "1,32,789",
+          "down_payment": "$",
+          "interest_rate": "3.5%",
+          "loan_terms": "24"
+        },
+        "calculate_button": "CALCULATE"
+      }
+    }
+  },
+  "block_feature": {
+    "title": "Explore & Find your ",
+    "dream": "Dream",
+    "home": "home ",
+    "subtitle": "Your premier partner in real estate. Transforming properties into dreams. Let us guide you home with expertise.",
+    "handover": "Project Handover",
+    "customers": "Happy Customers",
+    "loan": "Loan & Low Interest Facility",
+    "listings": "Property Listings Added & Updated",
+    "consultation": "Expert Agent Consultation",
+    "learn_more": "Learn More",
+    "experience": {
+      "title": "Years Experience with Pride",
+      "description": "Trusted real estate service with a proven track record"
+    },
+    "features": {
+      "insurance": {
+        "title": "Property Insurance",
+        "description": "Comprehensive coverage to protect your investment and peace of mind"
+      },
+      "payments": {
+        "title": "Easy Payments",
+        "description": "Flexible and secure payment options tailored to your needs"
+      },
+      "process" : {
+        "title": "Quick Process",
+        "description": "Fast and transparent property deals with expert support at every step"
+      }
+    }
+  },
+  "testimonials": {
+    "section_title": "Don't Trust Us, Trust <1>our clients</1>",
+    "section_subtitle": "Client satisfaction speaks louder than our words. Hear from them.",
+    "feedback": {
+      "1": "Efficient and friendly service, guided us perfectly. Satisfied with our new home. Thank you!",
+      "2": "Found our dream home. Great experience with them. Thank you for the excellent service."
+    }
+  },
+  "footer": {
+    "newsletter_title": "Our Newsletter",
+    "newsletter_subtitle": "Get instant news by subscribe to our newsletter",
+    "widgets": {
+      "links": "Links",
+      "legal": "Legal",
+      "listing": "New Listing"
+    },
+    "links": {
+      "home": "Home",
+      "membership": "Membership",
+      "about": "About Company",
+      "blog": "Blog",
+      "careers": "Explore Careers",
+      "pricing": "Pricing",
+      "dashboard": "Dashboard",
+      "terms": "Terms & conditions",
+      "cookie": "Cookie",
+      "privacy": "Privacy policy",
+      "faq": "Faq’s",
+      "buy_apartments": "Buy Apartments",
+      "buy_condos": "Buy Condos",
+      "rent_houses": "Rent Houses",
+      "rent_industrial": "Rent Industrial",
+      "buy_villas": "Buy Villas",
+      "rent_office": "Rent Office"
+    }
+  },
+  "fancy_banner": {
+    "headline": "Find the right home for your family",
+    "sub_headline": "We’ve more than 75,000 apartments, place & plot.",
+    "get_started": "Get Started"
+  }
+}
